@@ -1,0 +1,21 @@
+PIECE MOVEMENT
+    Pawns
+        en-passant capture
+        promotion
+    Bishops
+        basic movement
+        collision
+    Knights
+    Rooks
+        collision
+        castling
+    Queen
+        collision
+    King
+        king in check
+        castling
+    All
+        general king in check
+
+GAME INTERFACE
+    movement is painful - algebraic chess notation converter?
